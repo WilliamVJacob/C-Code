@@ -1,3 +1,4 @@
+//program to understand teranary operator
 #include<stdio.h>
 void main()
 {

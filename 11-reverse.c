@@ -1,4 +1,4 @@
-//wap to find reverse
+//program  to find reverse of a number
 #include<stdio.h>
 void main()
 {

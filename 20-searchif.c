@@ -1,3 +1,4 @@
+// program to find how 1' are present in the number in binary form
 #include<stdio.h>
 void main()
 {

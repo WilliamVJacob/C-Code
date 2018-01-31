@@ -1,3 +1,4 @@
+//program to understand pointers
 #include<stdio.h>  
 #include<stdlib.h>  
 int main()

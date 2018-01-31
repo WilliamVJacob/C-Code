@@ -1,3 +1,4 @@
+//program to check different formating operator
 #include<stdio.h>
 #define MSSG "Hello World\n"
 void main()

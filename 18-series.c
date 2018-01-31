@@ -1,3 +1,4 @@
+//program to print two series
 #include<stdio.h>
 void main()
 {

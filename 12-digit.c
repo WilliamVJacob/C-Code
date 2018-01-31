@@ -1,3 +1,4 @@
+// program to check how many times a particular digit appears in a number
 #include<stdio.h>
 void main()
 {

@@ -1,3 +1,4 @@
+//program to find a reverse of a sting with using extra array
 #include<stdio.h>
 #include<string.h>
 void main()

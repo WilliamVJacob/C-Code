@@ -1,3 +1,4 @@
+//program  to find  pythagorean triples till 50
 #include<stdio.h>
 void main()
 {

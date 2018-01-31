@@ -1,3 +1,4 @@
+// program to convert the number to octal
 #include<stdio.h>
 void main()
 {	

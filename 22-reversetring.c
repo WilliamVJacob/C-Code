@@ -1,3 +1,4 @@
+//program to  reverse the words in the string eg "ram laxman" becomes "laxman ram"
 #include<stdio.h>
 #include<string.h>
 void main()

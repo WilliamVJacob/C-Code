@@ -1,3 +1,4 @@
+//program to enter a string and then reverse the words (eg "ram sita hari pooja" will become "pooja hari sita ram"
 #include<stdio.h>
 #include<string.h>
 void main()

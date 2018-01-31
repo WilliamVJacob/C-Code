@@ -1,3 +1,4 @@
+// program to check expression results
 #include<stdio.h>
 void main()
 {

@@ -1,3 +1,4 @@
+//program to check if a number is fibonacii or not
 #include<stdio.h>
 void main()
 {

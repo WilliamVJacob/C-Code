@@ -1,3 +1,4 @@
+//program to enter a six digit number and then adding all the even digit and multiplying all the odd number
 #include<stdio.h>
 void main()
 {

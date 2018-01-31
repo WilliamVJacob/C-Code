@@ -1,3 +1,4 @@
+// program to understand function
 #include<stdio.h>
 int *sum(int *num1, int *num2);
 void main()

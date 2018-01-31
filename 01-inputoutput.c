@@ -1,3 +1,4 @@
+//Program to print the size of different data types
 #include<stdio.h>
 #include<string.h>
 void main()

@@ -1,3 +1,4 @@
+//program to print the sum of all the cubes of the number till n
 #include<stdio.h>
 void main()
 {

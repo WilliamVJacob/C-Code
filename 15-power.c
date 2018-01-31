@@ -1,3 +1,4 @@
+//program to find the power of a number
 #include<stdio.h>
 void main()
 {
